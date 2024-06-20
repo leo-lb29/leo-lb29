@@ -32,7 +32,7 @@ Salut, je suis [Votre Nom] ! 👋
 - Email : [votre_email@example.com](mailto:votre_email@example.com)
 - LinkedIn : [Votre Profil LinkedIn](lien_vers_profil)
 - Twitter : [Votre Twitter](lien_vers_profil)
-- YouTube : ![Project Maker](https://youtube.com/@projectmakerfr)
+- YouTube : [Project Maker](https://youtube.com/@projectmakerfr)
 
 ⚡ **Petite anecdote :**  
 - J'adore résoudre des casse-têtes et des défis de programmation lors de mon temps libre.
