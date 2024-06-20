@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Project Maker](https://img.shields.io/youtube/channel/subscribers/UC7_eO9guOVJMgmCUaUgM84g?style=flat-square
+)
 
 ### 🌟 À propos de moi
 
@@ -30,6 +32,7 @@ Salut, je suis [Votre Nom] ! 👋
 - Email : [votre_email@example.com](mailto:votre_email@example.com)
 - LinkedIn : [Votre Profil LinkedIn](lien_vers_profil)
 - Twitter : [Votre Twitter](lien_vers_profil)
+- YouTube : ![Project Maker](https://youtube.com/@projectmakerfr)
 
 ⚡ **Petite anecdote :**  
 - J'adore résoudre des casse-têtes et des défis de programmation lors de mon temps libre.
@@ -51,7 +54,6 @@ Salut, je suis [Votre Nom] ! 👋
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
