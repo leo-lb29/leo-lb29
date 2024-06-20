@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Project Maker](https://img.shields.io/youtube/channel/subscribers/UC7_eO9guOVJMgmCUaUgM84g?style=flat-square
+![Project Maker](https://img.shields.io/youtube/channel/subscribers/UC7_eO9guOVJMgmCUaUgM84g?style=flat-square&link=https%3A%2F%2Fwww.youtube.com%2F%40projectmakerfr
 )
 
 ### 🌟 À propos de moi
