@@ -38,7 +38,7 @@ Salut, je suis [Votre Nom] ! 👋
 
 ### 📈 Statistiques GitHub
 
-![Statistiques GitHub de Votre Nom](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-lb29&hide_progress=false)
+![Statistiques GitHub de Votre Nom](https://github-readme-stats.vercel.app/api/top-langs/?username=leo-lb29&hide_progress=false&layout=compact)
 
 ---
 
