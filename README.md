@@ -1,41 +1,35 @@
 ## Hi there 👋
 
-![Project Maker](https://img.shields.io/youtube/channel/subscribers/UC7_eO9guOVJMgmCUaUgM84g?style=flat-square&link=https%3A%2F%2Fwww.youtube.com%2F%40projectmakerfr
-)
+![Project Maker](https://img.shields.io/youtube/channel/subscribers/UC7_eO9guOVJMgmCUaUgM84g?style=flat-square&link=https%3A%2F%2Fwww.youtube.com%2F%40projectmakerfr)
 
 ### 🌟 À propos de moi
 
-Salut, je suis [Votre Nom] ! 👋
+Salut, je suis leo.lb ! 👋
 
 🔭 **Actuellement, je travaille sur :**  
-- [Projet Principal 1](lien_vers_projet1) : Brève description du projet.
-- [Projet Principal 2](lien_vers_projet2) : Brève description du projet.
+Soon
 
 🌱 **Actuellement, j'apprends :**  
-- [Technologie/Compétence 1]
-- [Technologie/Compétence 2]
+Soon
 
 👯 **Je suis ouvert à collaborer sur :**  
-- Projets open-source intéressants.
-- Développement web, applications mobiles et projets de machine learning.
+Soon
 
 🤔 **Je recherche de l'aide pour :**  
-- [Un domaine ou projet spécifique où vous avez besoin d'aide]
+Soon
 
 💬 **Posez-moi des questions sur :**  
-- Développement web (HTML, CSS, JavaScript, PHP)
-- Programmation back-end (Node.js, Python)
-- Bases de données (MySQL, MongoDB)
-- Tout autre domaine de votre expertise
+- Développement web (HTML, CSS, PHP)
+- Programmation back-end (Python)
+- Bases de données (MySQL)
 
 📫 **Comment me contacter :**  
-- Email : [votre_email@example.com](mailto:votre_email@example.com)
-- LinkedIn : [Votre Profil LinkedIn](lien_vers_profil)
-- Twitter : [Votre Twitter](lien_vers_profil)
+- Email : [leo.lb@project-maker.fr](mailto:leo.lb@project-maker.fr)
+- benton.me : [Mon Bento (portfolio)](https://bento.me/leolb)
 - YouTube : [Project Maker](https://youtube.com/@projectmakerfr)
 
 ⚡ **Petite anecdote :**  
-- J'adore résoudre des casse-têtes et des défis de programmation lors de mon temps libre.
+Soon
 
 ---
 
@@ -59,9 +53,7 @@ Salut, je suis [Votre Nom] ! 👋
 
 ### ✨ Projets en vedette
 
-- [Projet Principal 1](lien_vers_projet1) : Brève description du projet.
-- [Projet Principal 2](lien_vers_projet2) : Brève description du projet.
-- [Projet Principal 3](lien_vers_projet3) : Brève description du projet.
+Soon
 
 ---
 
