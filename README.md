@@ -7,16 +7,13 @@
 Salut, je suis leo.lb ! 👋
 
 🔭 **Actuellement, je travaille sur :**  
-Soon
+@projectmakerfr
 
 🌱 **Actuellement, j'apprends :**  
-Soon
+Licence 1 en SNIO
 
 👯 **Je suis ouvert à collaborer sur :**  
-Soon
-
-🤔 **Je recherche de l'aide pour :**  
-Soon
+Des services web ( merci de me contacter par mail )
 
 💬 **Posez-moi des questions sur :**  
 - Développement web (HTML, CSS, PHP)
@@ -25,11 +22,8 @@ Soon
 
 📫 **Comment me contacter :**  
 - Email : [leo.lb@project-maker.fr](mailto:leo.lb@project-maker.fr)
-- benton.me : [Mon Bento (portfolio)](https://bento.me/leolb)
+- bento.me : [Mon Bento (portfolio)](https://bento.me/leolb)
 - YouTube : [Project Maker](https://youtube.com/@projectmakerfr)
-
-⚡ **Petite anecdote :**  
-Soon
 
 ---
 
@@ -53,7 +47,10 @@ Soon
 
 ### ✨ Projets en vedette
 
-Soon
+ProjectMaker
+API rex
+API for ProjectMaker
+dashboard for ProjectMaker
 
 ---
 
