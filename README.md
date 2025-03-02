@@ -3,7 +3,7 @@ Salut ! 👋
 ![Project Maker](https://img.shields.io/youtube/channel/subscribers/UC7_eO9guOVJMgmCUaUgM84g?style=flat-square&link=https%3A%2F%2Fwww.youtube.com%2F%40projectmakerfr)
 
 ### Qui suis-je ?
-Je suis Léo (ou Léopold), aussi connu sous le pseudo leo.lb. Passionné par le développement, je suis l'un des fondateurs de Project-Maker.fr, une plateforme dédiée à simplifier la création de projets en accompagnant les utilisateurs dans leurs idées.
+Je suis Léo (ou Léopold), aussi connu sous le pseudo leo.lb. Passionné par le développement, je suis l'un des fondateurs de Project-Maker.fr, une plateforme dédiée à simplifier la création de projets en accompagnant les utilisateurs dans leurs idées et du SaaS Wagoo.
 
 ### 🌟 Mes projets
 @projectmakerfr : Un guide pour structurer les projets et orienter les créateurs vers les ressources adaptées.
