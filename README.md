@@ -100,6 +100,3 @@ Double médaillé (1er place et prix du public) au concours de la fondation CGÉ
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=projectmakergithub&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/projectmakergithub/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=projectmakergithub&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/projectmakergithub/github-readme-stats#gh-light-mode-only)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wagoo-app&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wagoo-app/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wagoo-app&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/wagoo-app/github-readme-stats#gh-light-mode-only)
