@@ -6,8 +6,8 @@ Salut ! 👋
 Je suis Léo (ou Léopold), aussi connu sous le pseudo leo.lb. Passionné par le développement, je suis membre de l'équipe Joomi du créateur de Wagoo ( SaaS ).
 
 ### 🌟 Mes projets
-@joomi : Soon
-@wagoo_app : Soon
+@joomi-app : Soon
+@wagoo-app : Soon
 ### 🔨 Expériences
 Technicien de maintenance chez Guelt International, Quimperlé (2023-2024)
 Organisation de la Course Contre La Faim (2022-2024) en partenariat avec Action Contre La Faim, Lycée Colbert, Lorient.
