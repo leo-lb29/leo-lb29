@@ -7,7 +7,7 @@
 
 ###
 
-### J'ai acquis une expérience significative sur les environnements techniques suivants
+### J'ai acquis une expérience sur les environnements techniques suivants
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
