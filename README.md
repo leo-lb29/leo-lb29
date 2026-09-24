@@ -95,16 +95,6 @@
   <a href="https://www.instagram.com/leo.lb.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=leo.lb.dev&logo=instagram&label=Instagram&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=leo.lb&logo=discord&label=discord&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.linkedin.com/in/leolb29/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=leolb29&logo=linkedin&label=LinkedIn&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://bsky.app/profile/wagoo.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=leo.lb.dev&logo=bluesky&label=Bluesky&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bluesky logo"  />
-  </a>
-  <a href="https://buymeacoffee.com/leo.lb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=leo.lb&logo=ko-fi&label=BUY%20ME%20a%20Coffee&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-  </a>
 </div>
 
 ###
